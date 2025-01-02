@@ -9,3 +9,4 @@ F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
 F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json

@@ -13,3 +13,4 @@ F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
 F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

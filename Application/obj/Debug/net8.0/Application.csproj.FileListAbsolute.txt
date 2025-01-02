@@ -15,3 +15,4 @@ F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.dll
 F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
 F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.pdb
 F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.sourcelink.json
