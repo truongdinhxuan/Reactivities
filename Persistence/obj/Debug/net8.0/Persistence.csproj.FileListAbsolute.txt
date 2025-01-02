@@ -1,0 +1,15 @@
+F:\Csharp learn\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+F:\Csharp learn\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+F:\Csharp learn\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+F:\Csharp learn\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+F:\Csharp learn\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+F:\Csharp learn\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll

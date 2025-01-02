@@ -1,0 +1,11 @@
+F:\Csharp learn\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Csharp learn\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+F:\Csharp learn\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Csharp learn\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll

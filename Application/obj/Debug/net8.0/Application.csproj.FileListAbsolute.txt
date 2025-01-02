@@ -1,0 +1,17 @@
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Application.deps.json
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Application.dll
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Application.pdb
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Domain.dll
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Persistence.dll
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Domain.pdb
+F:\Csharp learn\Reactivities\Application\bin\Debug\net8.0\Persistence.pdb
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.dll
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\Application.pdb
+F:\Csharp learn\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
