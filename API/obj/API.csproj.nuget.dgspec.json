@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Csharp learn\\Reactivities\\API\\API.csproj": {}
+    "F:\\Csharp learn\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "F:\\Csharp learn\\Reactivities\\API\\API.csproj": {
+    "F:\\Csharp learn\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Csharp learn\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "F:\\Csharp learn\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\Csharp learn\\Reactivities\\API\\API.csproj",
+        "projectPath": "F:\\Csharp learn\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\dinh\\.nuget\\packages\\",
-        "outputPath": "F:\\Csharp learn\\Reactivities\\API\\obj\\",
+        "outputPath": "F:\\Csharp learn\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -259,7 +259,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
